@@ -1,6 +1,4 @@
-# Exercise-app
-
-# Workout Tracker App
+# Exercise-Easy
 
 ## Table of Contents
 - [Introduction]
